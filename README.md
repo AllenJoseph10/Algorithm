@@ -14,7 +14,7 @@ Welcome to an immersive journey into the heart of Object-Oriented Programming (O
   - [Abstraction 🚀](#abstraction)
 - [Dive into a Real-World Java Project 🛠️](#dive-into-a-real-world-java-project)
 - [Contributing to Excellence 🤝](#contributing-to-excellence)
-- [License 📝](#license)
+
 
 ## Introduction to Object-Oriented Programming
 
@@ -52,11 +52,8 @@ Theoretical knowledge finds its true power when applied. Dive into the `src` dir
 
 ## Contributing to Excellence 🤝
 
-This repository is a living testament to the collaborative spirit of software development. Contributions are not just welcomed but celebrated. Whether you're uncovering bugs or weaving new features, your journey to excellence is our shared endeavor. Open issues, submit pull requests, and let's sculpt the future of OOP together.
+This repository is a living testament to the collaborative spirit of software development. Contributions are not just welcomed but celebrated. Whether you're uncovering bugs or weaving new features, your journey to excellence is our shared endeavor. Open issues, submit pull requests and let's sculpt the future of OOP together.
 
-## License 📝
-
-This project is guarded by the MIT License—see the [LICENSE](LICENSE) file for the legal intricacies.
 
 Prepare to be captivated as we embark on a voyage through the realms of OOP, where the language of Java becomes the brushstroke in your masterpiece. 🎨 Happy coding and welcome to the future of software craftsmanship!
 
